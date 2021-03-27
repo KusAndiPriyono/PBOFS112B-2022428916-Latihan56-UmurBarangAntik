@@ -2,7 +2,10 @@ package pbofs112b.pkg2022428916.latihan56.umurbarangantik;
 
 /**
  *
- * @author Kus Andi Priyono
+ * @author 
+ * Nama     : Kus Andi Priyono
+ * Kelas    : FS112B
+ * NIM      : 2022428916
  */
 public class Radio extends BarangAntik {
     private String name;
